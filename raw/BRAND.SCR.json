@@ -1,0 +1,25 @@
+[
+  {
+    "op": "61",
+    "offset": 0,
+    "index": 0,
+    "value": [
+      "u8:1",
+      "OP.DAT"
+    ]
+  },
+  {
+    "op": "0A",
+    "offset": 9,
+    "index": 1,
+    "value": [
+      "u8:0"
+    ]
+  },
+  {
+    "op": "FF",
+    "offset": 11,
+    "index": 2,
+    "value": []
+  }
+]
