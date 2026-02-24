@@ -70918,27 +70918,27 @@
     "need_whitespace": true
   },
   {
-    "message": "「「国语Ⅰ·国语Ⅱ」（200分）",
+    "message": "「国语Ⅰ·国语Ⅱ」（200分）",
     "need_whitespace": true
   },
   {
-    "message": "「「地理历史」（100分）",
+    "message": "「地理历史」（100分）",
     "need_whitespace": true
   },
   {
-    "message": "「「公民」（100分）",
+    "message": "「公民」（100分）",
     "need_whitespace": true
   },
   {
-    "message": "「「数学」（200分）",
+    "message": "「数学」（200分）",
     "need_whitespace": true
   },
   {
-    "message": "「「理科」（100分）",
+    "message": "「理科」（100分）",
     "need_whitespace": true
   },
   {
-    "message": "「「外语」（200分）",
+    "message": "「外语」（200分）",
     "need_whitespace": true
   },
   {
@@ -73979,7 +73979,7 @@
   },
   {
     "name": "朋友",
-    "message": "「露娜酱，你有喜欢的人吗？」"
+    "message": "「小露娜，你有喜欢的人吗？」"
   },
   {
     "name": "露娜",
@@ -79379,7 +79379,7 @@
   },
   {
     "name": "露娜",
-    "message": "「谢谢你，青山学长。」"
+    "message": "「谢谢你，青山前辈。」"
   },
   {
     "name": "青山",
@@ -80359,7 +80359,7 @@
   },
   {
     "name": "宗彦",
-    "message": "「哎、哎呀，学长说、说什么呢，她、她可是我女朋友啊」"
+    "message": "「哎、哎呀，前辈说、说什么呢，她、她可是我女朋友啊」"
   },
   {
     "name": "英一郎",
@@ -81274,31 +81274,31 @@
     "need_whitespace": true
   },
   {
-    "message": "「「国语Ⅰ·国语Ⅱ」（200分）",
+    "message": "「国语Ⅰ·国语Ⅱ」（200分）",
     "need_whitespace": true
   },
   {
-    "message": "「「地理历史」（100分）",
+    "message": "「地理历史」（100分）",
     "need_whitespace": true
   },
   {
-    "message": "「「公民」（100分）",
+    "message": "「公民」（100分）",
     "need_whitespace": true
   },
   {
-    "message": "「「数学」（200分）",
+    "message": "「数学」（200分）",
     "need_whitespace": true
   },
   {
-    "message": "「「理科」（100分）",
+    "message": "「理科」（100分）",
     "need_whitespace": true
   },
   {
-    "message": "「「外语」（200分）",
+    "message": "「外语」（200分）",
     "need_whitespace": true
   },
   {
-    "message": "——以上共计5教科6科目，满分900分。」",
+    "message": "——以上共计5教科6科目，满分900分。",
     "need_whitespace": true
   },
   {
@@ -81910,7 +81910,7 @@
   },
   {
     "name": "露娜",
-    "message": "「可是，藤原学长你自己也要看的吧？」"
+    "message": "「可是，藤原前辈你自己也要看的吧？」"
   },
   {
     "name": "英一郎",
@@ -83119,7 +83119,7 @@
     "need_whitespace": true
   },
   {
-    "message": "「一声规规矩矩的「前辈」，吗。",
+    "message": "一声规规矩矩的「前辈」，吗。",
     "need_whitespace": true
   },
   {
@@ -89264,7 +89264,7 @@
   },
   {
     "name": "花丸",
-    "message": "「……我和学姐的事，我全说出来了……」"
+    "message": "「……我和姐姐的事，我全说出来了……」"
   },
   {
     "name": "艾琳娜",
@@ -89844,7 +89844,7 @@
   },
   {
     "name": "花丸",
-    "message": "「「喂……」」"
+    "message": "「喂……」"
   },
   {
     "message": "电话那头一片死寂，露娜没有回应。",
@@ -89852,11 +89852,11 @@
   },
   {
     "name": "花丸",
-    "message": "「「白天的事……对不起。」」"
+    "message": "「白天的事……对不起。」"
   },
   {
     "name": "露娜",
-    "message": "「「别跟我道歉啊！」」"
+    "message": "「别跟我道歉啊！」"
   },
   {
     "message": "她突然对着我吼了起来。",
@@ -89864,15 +89864,15 @@
   },
   {
     "name": "露娜",
-    "message": "「「找那个人也好，去哪儿都好，随便你啦！圣诞节的时候，你也是去她那儿了吧！」」"
+    "message": "「找那个人也好，去哪儿都好，随便你啦！圣诞节的时候，你也是去她那儿了吧！」"
   },
   {
     "name": "花丸",
-    "message": "「「对不起……」」"
+    "message": "「对不起……」"
   },
   {
     "name": "露娜",
-    "message": "「「笨蛋！最讨厌哥哥了！最讨厌你了！」」"
+    "message": "「笨蛋！最讨厌哥哥了！最讨厌你了！」"
   },
   {
     "message": "电话毫无征兆地挂断了。",
@@ -89884,7 +89884,7 @@
   },
   {
     "name": "花丸",
-    "message": "「「啊……」」"
+    "message": "「啊……」"
   },
   {
     "message": "是艾琳娜小姐。",
@@ -89904,15 +89904,15 @@
   },
   {
     "name": "艾琳娜",
-    "message": "「「打过电话了？」」"
+    "message": "「打过电话了？」"
   },
   {
     "name": "花丸",
-    "message": "「「嗯。」」"
+    "message": "「嗯。」"
   },
   {
     "name": "艾琳娜",
-    "message": "「「她生气了吧？」」"
+    "message": "「她生气了吧？」"
   },
   {
     "message": "我含糊其辞地应了一声。",
@@ -89920,7 +89920,7 @@
   },
   {
     "name": "艾琳娜",
-    "message": "「「果然……还是结束吧。」」"
+    "message": "「果然……还是结束吧。」"
   },
   {
     "message": "那是她在与我擦身而过的瞬间抛下的话语。待我回首，眼前的门扉已恰好合上。",
