@@ -1,0 +1,24 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Will\LoveSplit]
+"InstallType"=hex:02,00,00,00
+"AutoSkip"=hex:00,00,00,00
+"DisplayMode"=hex:00,00,00,00
+"FontShadow"=hex:00,00,00,00
+"MsgSpeed"=hex:01,00,00,00
+"MsgPos"=hex:00,00,00,00,b8,01,00,00
+"WndPos"=hex:2b,02,00,00,df,00,00,00
+"Mute"=hex:00,00,00,00,00,00,00,00,00,00,00,00
+"Volume"=hex:e8,03,00,00,e8,03,00,00,e8,03,00,00
+"SystemDraw"=hex:01,00,00,00
+"EnableJoyPad"=hex:00,00,00,00
+"EffectSkip"=hex:00,00,00,00
+"AutoMsg"=hex:03,00,00,00
+"SkipType"=hex:01,00,00,00
+"RButtonMode"=hex:01,00,00,00
+"UseFilt"=hex:01,00,00,00
+"DeactiveSnd"=hex:01,00,00,00
+"InstallDir"="./"
+"InstallSrc"="Z:"
+"FontName"="MS Serif"
+"SysChar"=hex:00,00,00,00

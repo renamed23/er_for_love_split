@@ -1,0 +1,38 @@
+[
+  {
+    "op": "8A",
+    "offset": 0,
+    "value": [
+      "u8:1",
+      "u8:0"
+    ]
+  },
+  {
+    "op": "85",
+    "offset": 3,
+    "value": [
+      "u8:1",
+      "u8:0"
+    ]
+  },
+  {
+    "op": "61",
+    "offset": 6,
+    "value": [
+      "u8:1",
+      "ED.DAT"
+    ]
+  },
+  {
+    "op": "07",
+    "offset": 15,
+    "value": [
+      "MAINMENU"
+    ]
+  },
+  {
+    "op": "FF",
+    "offset": 25,
+    "value": []
+  }
+]
