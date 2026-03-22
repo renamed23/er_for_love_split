@@ -18,10 +18,12 @@ HOOK_LISTS = {
 
 FEATURES = [
     "default_impl",
-    "text_hook",
-    "iat_hook",
-    "create_file_redirect",
-    "override_window_title",
+    "bind_text_mapping",
+    "bind_font_manager",
+    "enable_iat_hook",
+    "bind_path_redirector",
+    "bind_window_title_overrider",
+    "enable_window_title_override",
 ]
 
 
